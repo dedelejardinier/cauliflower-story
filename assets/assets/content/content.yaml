@@ -1,0 +1,58 @@
+---
+# Setup
+title: StoryText
+personas:
+  "1":
+    name: John
+    age: 26
+    description: scientist and philosopher
+    picture: john.png
+  "2":
+    name: Lucy
+    age: 18
+    description: punk archeologist
+    picture: lucy.png
+---
+# Story
+"1":
+  persona: "1"
+  text: |
+    Hello I am John! I have something that might interest you: <https://youtu.be/TBikbn5XJhg>.  
+    Look I will send you an image of a black hole! It is fascinating :smiley:.
+  image: black_hole.png
+  image_source: https://en.wikipedia.org/wiki/Black_hole
+  next: "2"
+"2":
+  persona: "2"
+  text: Hi I am Lucy, a punk archeologist. I have a **question** for _you_, what are you looking for in life ?
+  mcq:
+    - answer: I don't know you, why should I tell you?
+      next: "3"
+    - answer: A punk archeologist, what does this even mean?
+      next: "8"
+    - answer: I am looking for happiness.
+      next: "7"
+"3":
+  persona: "2"
+  text: Good question, I don't have the answer yet.
+  next: "4"
+"8":
+  persona: "2"
+  text: You will discover this soon enough don't worry!
+  next: "4"
+"4":
+  persona: "1"
+  text: Hey Lucy, do you have that periodic table picture that I showed you yesterday?
+  next: "5"
+"5":
+  persona: "2"
+  image: periodic_table.png
+  image_source: https://www.acs.org/education/whatischemistry/periodictable.html
+  reply: "3"
+  next: "6"
+"6":
+  persona: "1"
+  text: Thank you. I'll let you take a look and leave you here.
+"7":
+  persona: "2"
+  text: Ok you got everything right. See you in another world!
