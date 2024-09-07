@@ -1,3 +1,5 @@
+Cauliflower story by [@dedelejardinier](https://github.com/dedelejardinier), powered by [storytext](https://github.com/gruvw/storytext).
+
 # StoryText
 
 Interactive cross-platform book application basis that combines elements of a messaging app with branching storylines.
