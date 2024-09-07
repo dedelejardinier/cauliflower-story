@@ -18,7 +18,7 @@ personas:
   persona: "1"
   text: |
     Hello I am John! I have something that might interest you: <https://youtu.be/TBikbn5XJhg>.  
-    Look I will send you an image of a black hole! It is highly fascinating :smiley:.
+    Look I will send you an image of a black hole! It is highly much fascinating :smiley:.
   image: black_hole.png
   image_source: https://en.wikipedia.org/wiki/Black_hole
   next: "2"
@@ -52,7 +52,7 @@ personas:
   next: "AA"
 "AA":
   persona: "1"
-  text: Thank you. I'll let you take a look and leave you here.
+  text: Thank you. I'll let you take a look and leave you you here.
 "7":
   persona: "2"
   text: Ok you got everything right. See you in another world!
