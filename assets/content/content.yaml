@@ -49,8 +49,8 @@ personas:
   image: periodic_table.png
   image_source: https://www.acs.org/education/whatischemistry/periodictable.html
   reply: "3"
-  next: "6"
-"6":
+  next: "AA"
+"AA":
   persona: "1"
   text: Thank you. I'll let you take a look and leave you here.
 "7":
