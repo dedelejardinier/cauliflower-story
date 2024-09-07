@@ -1,5 +1,5 @@
-name: storytext
-description: "Interactive book application basis that combines elements of a messaging app with branching storylines."
+name: cauliflower
+description: "Cauliflower book."
 
 publish_to: "none"
 version: 0.0.1

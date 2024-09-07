@@ -1,3 +1,3 @@
 abstract class Values {
-  static const applicationTitle = "StoryText";
+  static const applicationTitle = "Cauliflower";
 }
