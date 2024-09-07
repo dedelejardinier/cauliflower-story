@@ -80778,7 +80778,7 @@ $S:520}
 A.NT.prototype={}
 A.FX.prototype={
 M(a){var s=null
-return new A.y4("chat",A.aN9(),"StoryText",A.tJ(s,s,B.lE,"Noto",s),!1,s)}}
+return new A.y4("chat",A.aN9(),"Cauliflower",A.tJ(s,s,B.lE,"Noto",s),!1,s)}}
 A.H5.prototype={
 M(a){return new A.r6($.FF().akQ("assets/content/content.yaml").c4(new A.Yl(),t.KD).c4(new A.Ym(),t.GZ),new A.Yn(this),null,t.Pd)}}
 A.Yl.prototype={
@@ -80821,7 +80821,7 @@ s=A.b([],h)
 for(r=l.e,q=r.length,p=0;p<r.length;r.length===q||(0,A.F)(r),++p){o=r[p]
 n=A.aCG(j,o,i)
 m=o.b!==i?new A.a6L(l,o):k
-B.b.L(s,A.b([A.f3(k,new A.yc(new A.bA(B.iH,new A.iX(o.a,1.2,!1,!0,k),k),m,n.c,!0,k),B.r,k,B.zK,k,k,k,k,B.Dp,k,k,k),B.MU],h))}if(g!=null)B.b.L(s,A.b([B.MT,new A.h3(B.hU,k,k,A.f3(k,A.jO(A.b([B.Rm,A.apE(!1,new A.bA(B.iH,new A.iX(g,1.2,!0,!1,k),k),B.lE,k)],h),B.d2,B.aC,B.c0),B.r,k,B.kZ,k,k,k,k,B.Do,k,k,k),k)],h))
+B.b.L(s,A.b([A.f3(k,new A.yc(new A.bA(B.iH,new A.iX(o.a,1.2,!1,!0,k),k),m,n.c,!0,k),B.r,k,B.zK,k,k,k,k,B.Dp,k,k,k),B.MU],h))}if(g!=null)B.b.L(s,A.b([B.MT,new A.h3(B.hU,k,k,A.f3(k,A.jO(A.b([B.Rn,A.apE(!1,new A.bA(B.iH,new A.iX(g,1.2,!0,!1,k),k),B.lE,k)],h),B.d2,B.aC,B.c0),B.r,k,B.kZ,k,k,k,k,B.Do,k,k,k),k)],h))
 return A.jO(s,B.bI,B.aC,B.c0)}}
 A.a6K.prototype={
 $1(a){return A.atF(this.a.e,a).a},
@@ -80870,8 +80870,8 @@ A.tv.prototype={
 M(a){var s=this,r=null,q=B.B5.$0(),p=$.xl.x7(new A.n0("",r,t.OC),t.g_),o=new A.acv(s,q),n=s.d,m=n.b
 if(m.length!==0)n=B.b.gP(m)
 else{n=n.f.gfd()
-n=n.gP(n).a}n=A.au6(r,r,r,r,r,r,r,r,!0,r,r,r,r,r,J.b5(p.gm())===0?r:p.gm(),r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,n,r,r,r,r,r,r,B.Rk,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r)
-return new A.FP(B.Rl,new A.AB(q,n,B.ye,!0,B.xV,B.xW,new A.acs(o,q,p),!0,r),A.b([A.aqb(B.Rp,new A.act(s,a),A.aqc(r,r,r,r,r,r,r,r,r,B.el,r,r,B.el,r,r,r,r,r,r,r)),new A.JW(new A.acu(s,o,a),r,r,r,A.aFP(r,r,r,r,r,r,r,r,r,B.el,r,r,B.el,r,r,r,B.zz,r,r,r,r),r,r,!1,r,!0,B.Ro,r)],t.p),B.jc,r)}}
+n=n.gP(n).a}n=A.au6(r,r,r,r,r,r,r,r,!0,r,r,r,r,r,J.b5(p.gm())===0?r:p.gm(),r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,n,r,r,r,r,r,r,B.Rl,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r)
+return new A.FP(B.Rm,new A.AB(q,n,B.ye,!0,B.xV,B.xW,new A.acs(o,q,p),!0,r),A.b([A.aqb(B.Rp,new A.act(s,a),A.aqc(r,r,r,r,r,r,r,r,r,B.el,r,r,B.el,r,r,r,r,r,r,r)),new A.JW(new A.acu(s,o,a),r,r,r,A.aFP(r,r,r,r,r,r,r,r,r,B.el,r,r,B.el,r,r,r,B.zz,r,r,r,r),r,r,!1,r,!0,B.Ro,r)],t.p),B.jc,r)}}
 A.acv.prototype={
 $0(){var s=this.b.a.a
 if(this.a.d.f.h(0,s)==null)return null
@@ -80907,7 +80907,7 @@ $S:14}
 A.GB.prototype={
 M(a){return new A.H5(new A.XJ(),null)}}
 A.XJ.prototype={
-$2(a,b){var s=null,r=A.hX(s,B.Rn,B.T,!1,s,s,s,s,s,s,s,s,new A.XI(a,b),s,s,s,s,s,s,s,s,s,s,s,s,!1,B.bb)
+$2(a,b){var s=null,r=A.hX(s,B.Rj,B.T,!1,s,s,s,s,s,s,s,s,new A.XI(a,b),s,s,s,s,s,s,s,s,s,s,s,s,!1,B.bb)
 return new A.mj(new A.vE(r,new A.Rm(s,s,1/0,56),s),new A.GC(b,s),s)},
 $S:529}
 A.XI.prototype={
@@ -87230,8 +87230,8 @@ B.Ea=new A.hZ(62468,"CupertinoIcons","cupertino_icons",!1)
 B.Ed=new A.xn(B.Ea,30,B.j,null,null)
 B.JB=new A.bA(B.Di,B.Ed,null)
 B.Dg=new A.at(0,10,0,0)
-B.Rj=new A.eM("END",null,null,null,null,null,null,null,null,null)
-B.z8=new A.h3(B.P,null,null,B.Rj,null)
+B.Rk=new A.eM("END",null,null,null,null,null,null,null,null,null)
+B.z8=new A.h3(B.P,null,null,B.Rk,null)
 B.JC=new A.bA(B.Dg,B.z8,null)
 B.cG=new A.K2(0,"fill")
 B.aX=new A.K2(1,"stroke")
@@ -87872,10 +87872,10 @@ B.Qx=new A.t(!0,B.G,null,"Roboto",B.M,null,null,null,null,null,null,null,null,nu
 B.Q_=new A.t(!0,B.m,null,"Roboto",B.M,null,null,null,null,null,null,null,null,null,null,null,null,B.f,null,null,null,"blackHelsinki labelMedium",null,null,null,null)
 B.Q9=new A.t(!0,B.m,null,"Roboto",B.M,null,null,null,null,null,null,null,null,null,null,null,null,B.f,null,null,null,"blackHelsinki labelSmall",null,null,null,null)
 B.Ri=new A.dP(B.QQ,B.Ou,B.Ph,B.PZ,B.Qb,B.O0,B.OW,B.O4,B.PN,B.Qn,B.Po,B.Qo,B.Qx,B.Q_,B.Q9)
-B.Rk=new A.eM("Message ID",null,null,null,null,null,null,null,null,null)
-B.Rl=new A.eM("Story Jumping",null,null,null,null,null,null,null,null,null)
-B.Rm=new A.eM("You ",null,B.yi,null,null,null,null,null,null,null)
-B.Rn=new A.eM("StoryText",null,null,null,null,null,null,null,null,null)
+B.Rj=new A.eM("Cauliflower",null,null,null,null,null,null,null,null,null)
+B.Rl=new A.eM("Message ID",null,null,null,null,null,null,null,null,null)
+B.Rm=new A.eM("Story Jumping",null,null,null,null,null,null,null,null,null)
+B.Rn=new A.eM("You ",null,B.yi,null,null,null,null,null,null,null)
 B.Ro=new A.eM("Jump",null,null,null,null,null,null,null,null,null)
 B.Rp=new A.eM("Restart",null,null,null,null,null,null,null,null,null)
 B.UA=new A.adC(0,"system")
